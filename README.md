@@ -1,4 +1,4 @@
-#Construction Company Website (HTML and CSS)
+Construction Company Website (HTML and CSS)
 
 • A professional website for a construction company using HTML and CSS.
 
